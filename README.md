@@ -12,8 +12,8 @@ My journey in Electrical and software Engeneering  led me to develop a passion f
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Cyrptography                    | <a href="https:google.com"> Secure Encrypted Chat System</a>|
-| Network Security                              | <a href="https:google.com"> Secure Encrypted Chat System</a>|
+| Cyrptography                    | <a href="https://github.com/stan-y/Secure-Encrypted-Chat-System-"> Secure Encrypted Chat System</a>|
+| Network Security                              | <a href="https://github.com/stan-y/Secure-Encrypted-Chat-System-"> Secure Encrypted Chat System</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
