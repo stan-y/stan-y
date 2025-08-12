@@ -8,13 +8,13 @@ My journey in Electrical and software Engeneering  led me to develop a passion f
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Cyrptography                    | <a href="https:google.com"> Secure Encrypted Chat System</a>|
+| Network Security                              | <a href="https:google.com"> Secure Encrypted Chat System</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
